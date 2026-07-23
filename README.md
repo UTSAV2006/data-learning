@@ -30,3 +30,16 @@ This repository documents my journey of becoming a data analyst.
 - Land a data analyst internship
 - Build 2-3 end-to-end data projects
 - Eventually move into data science
+
+## 🗂️ Projects
+
+### 🚂 Indian Railways Analysis
+End-to-end analysis of 4,17,080 schedule records across
+5,208 trains and 8,495 stations.
+
+Key findings:
+- Kanpur Central is India's busiest station (298 trains)
+- Garib Nawaz Express has the longest route (801 stops)
+- 1,688 trains run multi-day journeys (longest: 13 days)
+
+[View Project →](indian-railways-analysis/)
